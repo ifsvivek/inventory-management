@@ -1,0 +1,42 @@
+[
+    {
+        "product_name": "Biscuits",
+        "rack_number": "A22"
+    },
+    {
+        "product_name": "Oats",
+        "rack_number": "A20"
+    },
+    {
+        "product_name": "Bread",
+        "rack_number": "B21"
+    },
+    {
+        "product_name": "Biscurs",
+        "rack_number": "G22"
+    },
+    {
+        "product_name": "Oats",
+        "rack_number": "A20"
+    },
+    {
+        "product_name": "Bread",
+        "rack_number": "B21"
+    },
+    {
+        "product_name": "Butter",
+        "rack_number": "F25"
+    },
+    {
+        "product_name": "Cheese",
+        "rack_number": "G28"
+    },
+    {
+        "product_name": "Water",
+        "rack_number": "J29"
+    },
+    {
+        "product_name": "Sado",
+        "rack_number": "L31"
+    }
+]
